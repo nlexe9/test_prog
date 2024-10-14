@@ -1,4 +1,4 @@
-#Перезалить.
+# Перезалить.
 import random
 
 def dice_simulator():
